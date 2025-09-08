@@ -1,0 +1,14 @@
+    body {
+      background-color: #f5f0e6; /* light beige */
+    }
+    .btn-brown {
+      background-color: #8B5E3C; /* brown */
+      color: white;
+    }
+    .btn-brown:hover {
+      background-color: #6f4a2a; /* darker brown */
+    }
+    .card {
+      border: none;
+      border-radius: 1rem;
+    }

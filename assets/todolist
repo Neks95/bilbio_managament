@@ -1,0 +1,8 @@
+Systeme de management de librairie:
+
+Etape 1 : BASE DE DONNEE
+1)Creer les classes(ok)
+2)Connection a la base de donnee(ok)
+3)Ecrire tous les fonctions utiles donne une autre classe (getmembres,getID,......);(en cours)
+4)regler les getters et setters avec les fonctions
+5)tester .
